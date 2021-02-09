@@ -4,7 +4,7 @@
     <title> - Articles</title>
     <description>AI를 이용한 테스트</description>
     <link>
-    http://localhost:4000</link>
+    https://wonderman777.github.io/blog/</link>
     
       
       <item>
@@ -15,8 +15,8 @@
         
         <pubDate>Mon, 10 Feb 2020 01:40:00 +0900</pubDate>
         <link>
-        http://localhost:4000/python-basic</link>
-        <guid isPermaLink="true">http://localhost:4000/python-basic</guid>
+        https://wonderman777.github.io/blog//python-basic</link>
+        <guid isPermaLink="true">https://wonderman777.github.io/blog//python-basic</guid>
       </item>
       
     
@@ -29,8 +29,8 @@
         
         <pubDate>Mon, 10 Feb 2020 01:40:00 +0900</pubDate>
         <link>
-        http://localhost:4000/jekell-basic</link>
-        <guid isPermaLink="true">http://localhost:4000/jekell-basic</guid>
+        https://wonderman777.github.io/blog//jekell-basic</link>
+        <guid isPermaLink="true">https://wonderman777.github.io/blog//jekell-basic</guid>
       </item>
       
     
